@@ -1,2 +1,2 @@
 #!/bin/bash
-service httpd start
+rm -rf /var/www/html/index.html
